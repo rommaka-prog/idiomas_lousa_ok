@@ -31,6 +31,10 @@ hi {
     margin-bottom: 6px ;
 }
 
+#toolbar label{
+    font-size: 12px;
+}
+
 #toolbar input {
     width: 100%;
 }
